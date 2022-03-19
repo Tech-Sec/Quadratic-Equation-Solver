@@ -1,2 +1,2 @@
 # Quadratic-Equation-Solver
-Thsi soves quadratic equations using quadratic formula
+This script solves quadratic equations using *quadratic formula*
